@@ -1,0 +1,1 @@
+# aws-granular-access-control
